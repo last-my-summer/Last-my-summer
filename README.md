@@ -53,3 +53,18 @@
 <hr style="height: 1px; border: none; background-color: #1BE7BE; margin-top: 15px; clear: both;" />
 
 <img width="1000" height="70" alt="1000033444" src="https://github.com/user-attachments/assets/348b801c-7d79-47ce-a730-d44fa7986739" />
+
+<table border="0" cellpadding="0" cellspacing="0" align="left">
+  <tr>
+    <!-- Колонка с текстом (слева, цвет 1BE7BE) -->
+    <td style="vertical-align: middle; border: none; width: 100%; text-align: left; padding-right: 20px;">
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">Iᥒ ρ᧐ᥒy ᴛ᧐ᥕᥒ...</h2>
+      <h3 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𝗔 𝗵𝘂𝗴𝗲 𝗿𝗲𝗾𝘂𝗲𝘀𝘁: 𝗗𝗢𝗡'𝗧 𝗛𝗜𝗗𝗘 𝗠𝗘 𝗣𝗟𝗘𝗔𝗦𝗘. 𝗘𝘃𝗲𝗻 𝗶𝗳 𝘄𝗲 𝗱𝗼𝗻'𝘁 𝗮𝗴𝗿𝗲𝗲 𝗼𝗻 𝘁𝗵𝗶𝘀 𝗼𝗿 𝘁𝗵𝗮𝘁, 𝗱𝗼𝗻'𝘁 𝗵𝗶𝗱𝗲 𝗺𝗲!!!!𝗜 𝘄𝗼𝗻'𝘁 𝗵𝗲𝗹𝗽 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗹𝗶𝗺𝗶𝘁𝘀 𝗯𝗲𝗰𝗮𝘂𝘀𝗲 𝗜'𝗺 𝗶𝗻 𝗮 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗽𝗮𝗿𝘁𝘆. 𝗜𝗳 𝗜 𝘀𝘁𝗶𝗹𝗹 𝘄𝗮𝗻𝘁 𝘁𝗼, 𝗜'𝗹𝗹 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘆𝗼𝘂. 𝗚𝗼𝗼𝗱 𝗹𝘂𝗰𝗸!!𝗜'𝗺 𝗔𝗙𝗞 90% 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗶𝗺𝗲, 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗜 𝗰𝗵𝗮𝗻𝗴𝗲 𝘀𝗸𝗶𝗻𝘀</h3>
+    </td>
+    <!-- Колонка с эйдолоном (справа) -->
+    <td style="vertical-align: middle; border: none;">
+      <img width="700" height="1600" alt="1000033437" src="https://github.com/user-attachments/assets/83266362-48bc-47c6-b9f3-d27bf8902ec7" />
+    </td>
+  </tr>
+</table>
+<hr style="height: 1px; border: none; background-color: #1BE7BE; margin-top: 15px; clear: both;" />
