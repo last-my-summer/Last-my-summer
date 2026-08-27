@@ -6,7 +6,7 @@
   <tr>
     <!-- Колонка с эйдолоном -->
     <td style="vertical-align: middle; border: none; padding-right: 20px;">
-      <img width="300" height="300" alt="1000033365" src="https://github.com/user-attachments/assets/ba8fb1ec-b130-43d2-bbf7-a281901c8134" />
+      <img width="700" height="1600" alt="1000033401" src="https://github.com/user-attachments/assets/3959be4d-e62f-489c-919e-72eecd7e0999" />
     </td>
     <!-- Колонка с текстом (выровнена влево, цвет 1BE7BE) -->
     <td style="vertical-align: middle; border: none; width: 100%; text-align: left;">
