@@ -17,8 +17,7 @@
 </table>
 <hr style="height: 1px; border: none; background-color: #1BE7BE; margin-top: 15px; clear: both;" />
 
-<img width="1300" height="100" alt="1000033428" src="https://github.com/user-attachments/assets/4aade03e-5994-4b70-a2b7-eb4b287f5da6" />
-
+<img width="1100" height="100" alt="1000033433" src="https://github.com/user-attachments/assets/cbe2ae1d-e055-442e-910b-c093952bef48" />
 
 <table border="0" cellpadding="0" cellspacing="0" align="left">
   <tr>
