@@ -80,7 +80,7 @@
     </td>
     <!-- Колонка с текстом (выровнена влево, цвет 1BE7BE) -->
     <td style="vertical-align: middle; border: none; width: 100%; text-align: left;">
-      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">I ᥲⲙ ᥲ ᥎ᥱry ᥱⲙ᧐ᴛi᧐ᥒᥲᥣ ρᥱrs᧐ᥒ. E𐌽FP-T, 7w6, 4w3, 6w7</h2>
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">Friᥱᥒɗsɦiρ ᥕiᴛɦ ⲙᥱ</h2>
       <h3 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𝗙𝗿𝗶𝗲𝗻𝗱𝘀𝗵𝗶𝗽 𝘄𝗶𝘁𝗵 𝗺𝗲 𝗶𝘀 𝘀𝗶𝗺𝗽𝗹𝗲 𝗮𝗻𝗱 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗱𝗶𝗳𝗳𝗶𝗰𝘂𝗹𝘁. 𝗜'𝗺 𝗾𝘂𝗶𝘁𝗲 𝘀𝗲𝗻𝘀𝗶𝘁𝗶𝘃𝗲 𝘁𝗼 𝘆𝗼𝘂𝗿 𝘄𝗿𝗶𝘁𝗶𝗻𝗴 𝘀𝘁𝘆𝗹𝗲 𝗮𝗻𝗱 𝗜 𝘂𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱 𝗳𝗲𝗲𝗹𝗶𝗻𝗴𝘀 𝘁𝗲𝗿𝗿𝗶𝗯𝗹𝘆. 𝗜 𝘄𝗮𝗻𝘁 𝘁𝗼 𝘄𝗮𝗿𝗻 𝘆𝗼𝘂 𝘁𝗵𝗮𝘁 𝗜 𝗮𝗺 𝗲𝘅𝘁𝗿𝗲𝗺𝗲𝗹𝘆 𝘂𝗻𝘀𝘁𝗮𝗯𝗹𝗲!!𝗔𝘁 𝘁𝗵𝗲 𝗯𝗲𝗴𝗶𝗻𝗻𝗶𝗻𝗴 𝗼𝗳 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝘁𝗵𝗲𝗿𝗲 𝘄𝗮𝘀 𝗮 "𝘀𝘂𝗴𝗮𝗿 𝘀𝗵𝗼𝘄", 𝗮𝗻𝗱 𝘁𝗵𝗲𝗻 𝗜 𝗴𝗿𝗼𝘄 𝗰𝗼𝗹𝗱 𝘄𝗵𝗲𝗻 𝗶 𝘁𝗶𝗿𝗲𝗱/𝗻𝗼𝘁 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱</h3>
     </td>
   </tr>
