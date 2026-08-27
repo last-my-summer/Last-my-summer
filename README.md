@@ -1,5 +1,6 @@
 <img width="1920" height="980" alt="1000033387" src="https://github.com/user-attachments/assets/725e136c-b17f-4d44-82eb-ad0b290c89db" />
 <h1 align="center"> 𝜗ৎ𑀉𐌳Ⴝተ Ⴝ𐌵ᱬᱬꤕ𐍂─
+  <p align="center"><a href="https://t.me/LastMySummer">my tg info</a></p>
 <h3 align="center">Ꭲhis suʍʍᴇr is flying ʙy sᴏ fᴀsᴛ... Ꮃill wᴇ ʍᴇᴇᴛ in ᴛhᴇ nᴇxᴛ sᴛᴏry, wriᴛᴛᴇn ʙy ᴛhᴇ sun ᴀnd wᴀshᴇd ʙy ᴀzurᴇ wᴀvᴇs~
 <img width="30" height="30" alt="1000033451" src="https://github.com/user-attachments/assets/cab312bf-083a-4f75-af4a-dfabfa2774b4" style="vertical-align: middle;" />
 <table border="0" cellpadding="0" cellspacing="0" align="left">
