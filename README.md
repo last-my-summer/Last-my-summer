@@ -45,7 +45,7 @@
     </td>
     <!-- Колонка с текстом (выровнена влево, цвет 1BE7BE) -->
     <td style="vertical-align: middle; border: none; width: 100%; text-align: left;">
-      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𐌑y ɦ᧐δδiᥱs ᥲᥒɗ fᥲᥒɗ᧐ⲙs</h2>
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𐌑y ɦ᧐δδiᥱs♡</h2>
       <h3 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𝗜 𝗮𝗺 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗱𝗿𝗮𝘄𝗶𝗻𝗴, 𝗮𝗻𝗱 𝘄𝗵𝗲𝗻 𝗜 𝗮𝗺 𝗮𝗰𝘁𝗶𝘃𝗲𝗹𝘆 𝗱𝗿𝗮𝘄𝗶𝗻𝗴, 𝗜 𝘁𝗿𝘆 𝘁𝗼 𝗰𝗿𝗲𝗮𝘁𝗲 𝗺𝘆 𝗼𝘄𝗻 𝘂𝗻𝗶𝗾𝘂𝗲 𝘀𝘁𝘆𝗹𝗲 𝗮𝗻𝗱 𝗹𝗲𝗮𝗿𝗻 𝘁𝗼 𝘄𝗼𝗿𝗸 𝘄𝗶𝘁𝗵 𝗰𝗼𝗹𝗼𝗿𝘀 𝗮𝗻𝗱 𝗮𝗻𝗮𝘁𝗼𝗺𝘆.𝗜 𝗮𝗹𝘀𝗼 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝗴𝗲𝘁𝘁𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝘄𝗿𝗶𝘁𝗶𝗻𝗴 𝗮𝗻𝗱 𝗱𝗲𝗹𝘃𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗼𝗽𝗹𝗲'𝘀 𝗼𝗽𝗶𝗻𝗶𝗼𝗻𝘀/𝗽𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝘆, 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿 𝗰𝗮𝘂𝘀𝗲-𝗮𝗻𝗱-𝗲𝗳𝗳𝗲𝗰𝘁 𝗿𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀.~</h3>
     </td>
   </tr>
