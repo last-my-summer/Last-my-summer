@@ -34,6 +34,4 @@
 </table>
 <hr style="height: 1px; border: none; background-color: #1BE7BE; margin-top: 15px; clear: both;" />
 
-<img width="1100" height="100" alt="1000033434" src="https://github.com/user-attachments/assets/c2380e48-0a42-4a43-9611-2e5b9eb62c75" />
-
-
+<img width="1100" height="100" alt="1000033435" src="https://github.com/user-attachments/assets/2baf4b62-b971-4dd1-a4e3-1d07b7c05e1e" />
