@@ -23,8 +23,8 @@
   <tr>
     <!-- Колонка с текстом (слева, цвет 1BE7BE) -->
     <td style="vertical-align: middle; border: none; width: 100%; text-align: left; padding-right: 20px;">
-      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">I ᥲⲙ ᥲ ᥎ᥱry ᥱⲙ᧐ᴛi᧐ᥒᥲᥣ ρᥱrs᧐ᥒ. E𐌽FP-T, 7w6, 4w3, 6w7</h2>
-      <h3 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𝗜 𝘄𝗼𝘂𝗹𝗱 𝗹𝗶𝗸𝗲 𝘁𝗼 𝘁𝗲𝗹𝗹 𝘆𝗼𝘂 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲: 𝗜 𝗰𝗮𝗻 𝗺𝗮𝗸𝗲 𝗳𝗿𝗶𝗲𝗻𝗱𝘀, 𝗯𝘂𝘁 𝗜'𝗺 𝗻𝗼𝘁 𝗽𝗮𝗿𝘁𝗶𝗰𝘂𝗹𝗮𝗿𝗹𝘆 𝗴𝗼𝗼𝗱 𝗮𝘁 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗶𝗻𝗴 𝘁𝗿𝘂𝗹𝘆 𝗹𝗼𝗻𝗴-𝘁𝗲𝗿𝗺 𝗿𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀. 𝗜'𝗺 𝗱𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝘁 𝗼𝗻 𝗲𝗺𝗼𝘁𝗶𝗼𝗻𝗮𝗹 𝘁𝗼𝘂𝗿𝗶𝘀𝗺 𝗱𝘂𝗿𝗶𝗻𝗴 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻𝘀. 𝗘𝘅𝘁𝗿𝗲𝗺𝗲𝗹𝘆 𝗹𝗼𝘄 𝗘𝗤(𝗲𝗺𝗼𝘁𝗶𝗮𝗻𝗮𝗹 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲) 𝗮𝗻𝗱 𝗖𝗤(𝗖𝘂𝗹𝘁𝘂𝗿𝗮𝗹 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲)</h3>
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">Iᥒ ρ᧐ᥒy ᴛ᧐ᥕᥒ...</h2>
+      <h3 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𝗔 𝗵𝘂𝗴𝗲 𝗿𝗲𝗾𝘂𝗲𝘀𝘁: 𝗗𝗢𝗡'𝗧 𝗛𝗜𝗗𝗘 𝗠𝗘 𝗣𝗟𝗘𝗔𝗦𝗘. 𝗘𝘃𝗲𝗻 𝗶𝗳 𝘄𝗲 𝗱𝗼𝗻'𝘁 𝗮𝗴𝗿𝗲𝗲 𝗼𝗻 𝘁𝗵𝗶𝘀 𝗼𝗿 𝘁𝗵𝗮𝘁, 𝗱𝗼𝗻'𝘁 𝗵𝗶𝗱𝗲 𝗺𝗲!!!!𝗜 𝘄𝗼𝗻'𝘁 𝗵𝗲𝗹𝗽 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗹𝗶𝗺𝗶𝘁𝘀 𝗯𝗲𝗰𝗮𝘂𝘀𝗲 𝗜'𝗺 𝗶𝗻 𝗮 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗽𝗮𝗿𝘁𝘆. 𝗜𝗳 𝗜 𝘀𝘁𝗶𝗹𝗹 𝘄𝗮𝗻𝘁 𝘁𝗼, 𝗜'𝗹𝗹 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘆𝗼𝘂. 𝗚𝗼𝗼𝗱 𝗹𝘂𝗰𝗸!!𝗜'𝗺 𝗔𝗙𝗞 90% 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗶𝗺𝗲, 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗜 𝗰𝗵𝗮𝗻𝗴𝗲 𝘀𝗸𝗶𝗻𝘀</h3>
     </td>
     <!-- Колонка с эйдолоном (справа) -->
     <td style="vertical-align: middle; border: none;">
