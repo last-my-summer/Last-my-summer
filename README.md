@@ -108,6 +108,9 @@
 
 <img width="1920" height="980" alt="1000033446" src="https://github.com/user-attachments/assets/d8b5bc00-9d70-46ac-8b44-b40abad15620" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Last-my-summer&color=00b4d8" alt="Profile Views" />
+</p>
 
 
 
