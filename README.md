@@ -92,8 +92,8 @@
   <tr>
     <!-- Колонка с текстом (слева, цвет 1BE7BE) -->
     <td style="vertical-align: middle; border: none; width: 100%; text-align: left; padding-right: 20px;">
-      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">Iᥒ ρ᧐ᥒy ᴛ᧐ᥕᥒ...</h2>
-      <h3 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𝗔 𝗵𝘂𝗴𝗲 𝗿𝗲𝗾𝘂𝗲𝘀𝘁: 𝗗𝗢𝗡'𝗧 𝗛𝗜𝗗𝗘 𝗠𝗘 𝗣𝗟𝗘𝗔𝗦𝗘. 𝗘𝘃𝗲𝗻 𝗶𝗳 𝘄𝗲 𝗱𝗼𝗻'𝘁 𝗮𝗴𝗿𝗲𝗲 𝗼𝗻 𝘁𝗵𝗶𝘀 𝗼𝗿 𝘁𝗵𝗮𝘁, 𝗱𝗼𝗻'𝘁 𝗵𝗶𝗱𝗲 𝗺𝗲!!!!𝗜 𝘄𝗼𝗻'𝘁 𝗵𝗲𝗹𝗽 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗹𝗶𝗺𝗶𝘁𝘀 𝗯𝗲𝗰𝗮𝘂𝘀𝗲 𝗜'𝗺 𝗶𝗻 𝗮 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗽𝗮𝗿𝘁𝘆. 𝗜𝗳 𝗜 𝘀𝘁𝗶𝗹𝗹 𝘄𝗮𝗻𝘁 𝘁𝗼, 𝗜'𝗹𝗹 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝘆𝗼𝘂. 𝗚𝗼𝗼𝗱 𝗹𝘂𝗰𝗸!!𝗜'𝗺 𝗔𝗙𝗞 90% 𝗼𝗳 𝘁𝗵𝗲 𝘁𝗶𝗺𝗲, 𝘀𝗼𝗺𝗲𝘁𝗶𝗺𝗲𝘀 𝗜 𝗰𝗵𝗮𝗻𝗴𝗲 𝘀𝗸𝗶𝗻𝘀</h3>
+      <h2 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𐌑y ρriᥒᥴiρᥣᥱs</h2>
+      <h3 style="margin: 0; padding: 0; border: none; font-size: 32px; color: #1BE7BE;">𝗜 𝗵𝗮𝘃𝗲 𝗻𝗼 𝗳𝗶𝗿𝗺 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀, 𝗜 𝗮𝗺 𝘃𝗲𝗿𝘆 𝗳𝗶𝗰𝗸𝗹𝗲 𝗳𝗼𝗿 𝘁𝗵𝗲 𝘀𝗮𝗸𝗲 𝗼𝗳 𝗺𝘆 𝗿𝗲𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻. 𝗜 𝗱𝗼𝗻'𝘁 𝗸𝗻𝗼𝘄 𝗵𝗼𝘄 𝘁𝗼 𝘀𝘁𝗮𝗻𝗱 𝘂𝗽 𝗳𝗼𝗿 𝗺𝘆𝘀𝗲𝗹𝗳, 𝗯𝘂𝘁 𝗜'𝗺 𝗾𝘂𝗶𝘁𝗲 𝗿𝗲𝗮𝗱𝘆 𝘁𝗼 𝘀𝘁𝗮𝗻𝗱 𝘂𝗽 𝗳𝗼𝗿 𝗼𝘁𝗵𝗲𝗿𝘀 𝗮𝗻𝗱 𝗮𝗱𝗵𝗲𝗿𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀 𝗼𝗳 𝗽𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗻𝗴 𝗼𝘁𝗵𝗲𝗿𝘀. 𝗜 𝗵𝗮𝘃𝗲 𝘀𝗼𝗺𝗲 𝗹𝗼𝗴𝗶𝗰 𝗮𝗻𝗱 𝗰𝗮𝗻 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘁𝗵𝗲 𝗳𝗮𝗰𝘁𝘀 𝘄𝗶𝘁𝗵 𝗮 𝗽𝗲𝗿𝘀𝗼𝗻'𝘀 𝗮𝗰𝘁𝗶𝗼𝗻𝘀 𝗶𝗻 𝗮 𝗱𝗶𝘀𝗽𝘂𝘁𝗲. 𝗔𝗹𝗮𝘀, 𝘀𝗼𝗳𝘁-𝗯𝗼𝗱𝗶𝗲𝗱 𝗮𝗻𝗱 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗹𝗲</h3>
     </td>
     <!-- Колонка с эйдолоном (справа) -->
     <td style="vertical-align: middle; border: none;">
