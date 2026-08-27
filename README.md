@@ -1,4 +1,4 @@
-<img width="1920" height="880" alt="1000033387" src="https://github.com/user-attachments/assets/725e136c-b17f-4d44-82eb-ad0b290c89db" />
+<img width="1920" height="980" alt="1000033387" src="https://github.com/user-attachments/assets/725e136c-b17f-4d44-82eb-ad0b290c89db" />
 <h1 align="center"> 𝜗ৎ𑀉𐌳Ⴝተ Ⴝ𐌵ᱬᱬꤕ𐍂─
 <h3 align="center">Ꭲhis suʍʍᴇr is flying ʙy sᴏ fᴀsᴛ... Ꮃill wᴇ ʍᴇᴇᴛ in ᴛhᴇ nᴇxᴛ sᴛᴏry, wriᴛᴛᴇn ʙy ᴛhᴇ sun ᴀnd wᴀshᴇd ʙy ᴀzurᴇ wᴀvᴇs~
 
