@@ -16,6 +16,7 @@
   </tr>
 </table>
 <hr style="height: 1px; border: none; background-color: #1BE7BE; margin-top: 15px; clear: both;" />
+𝘿𝙉𝙄: 𝙍𝙖𝙘𝙞𝙨𝙩𝙨, 𝘼𝙜𝙧𝙤 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙚𝙨/𝙝𝙚𝙩𝙚𝙧𝙤𝙥𝙝𝙤𝙗𝙚𝙨 𝙖𝙣𝙙 𝙨𝙤 𝙤𝙣, 𝙁𝙮𝙤𝙡𝙖𝙞(𝙨𝙧𝙧𝙮, 𝙩𝙝𝙞𝙨 𝙞𝙨 𝙢𝙮 𝙩𝙧𝙞𝙜𝙜𝙚𝙧 𝙩𝙤 𝙗𝙖𝙙 𝙢𝙤𝙤𝙙)
 
 <img width="1000" height="70" alt="1000033444" src="https://github.com/user-attachments/assets/348b801c-7d79-47ce-a730-d44fa7986739" />
 
@@ -85,6 +86,10 @@
   </tr>
 </table>
 <hr style="height: 1px; border: none; background-color: #1BE7BE; margin-top: 15px; clear: both;" />
+<img width="1000" height="70" alt="1000033444" src="https://github.com/user-attachments/assets/348b801c-7d79-47ce-a730-d44fa7986739" />
+
+
+
 
 
 
